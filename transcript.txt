@@ -1,0 +1,277 @@
+It's not my choice. All right. Who has been or knows somebody who has been on a dating site or a dating app? Just kidding. There's, there's no shame. Um, if you may really find you care, what data is being collected about you, about your loved ones, about the things that impact your. , how it's shared, how it's processed, and what creative things can be done with it.
+
+Because we live in a world that is so complicated that we abstract as a matter of sanity, right? We abstract out this thing, oh, that's not a big problem, and we put it in a box that we often will miscategorize so that we don't have to deal with concerns. And please hear me, I'm, I don't want to sound like a.
+
+I want you to walk out of here knowing a little bit more about data, knowing a little bit more about data analytics, a little bit more about why you actually should care and a whole lot more. I really hope for a whole lot more, but those are the core things that brought me here today.  because often what seems impossible or easily abstracted into a black box that we don't care about often impossible is really not.
+
+I've made my career outta doing the impossible for the years, and that sounds grandiose, but it's true. So common myths I'm not important enough. What value is there in hacking my accounts? Okay. Uh, I have nothing worth protect. Or a hack or an exploitation of data, it can't hurt you. I don't think that you guys all think this, but I do want to just throw it out there and say, first of all, this is all my washing, uh, your accounts, your computer systems, your wifi, they matter for many different reasons.
+
+Oftentimes because your accounts, your technology can be used and knowledge about you can be used against you, but also against. Who know me because if I am able to model, I'm sorry, what's your name? Paris. Paris? Mm-hmm. . If, if I'm able to know enough about Paris to send Leah an email that sounds like Paris, I might be able to get Leah to give me information that gets me into her Insta, or gets me into her bank accounts.
+
+other ways, or if I sound enough like your parents or your parents get an email. That sounds a lot like you. Your information is not a simple conversation. Again, not chicken little. I just want to broaden the conversation a little bit so that you spend another 2.3 seconds pondering your data security, your data privacy, and how it can be something that's worth.
+
+And oftentimes your technology can be used as a pivot point that attack people that you don't even know. Um, hopefully more about that though. So here's where you are right now, in the middle of the technology dumpster fire, as it were. So let's talk a little bit more about, uh, I, I feel like I should go into Castine character and say it's my favorite subject, but maybe not.
+
+I don't wanna sound too terrible. So, uh, let's start over. I just want to walk a little bit through my career path and maybe generate some conversation. Feel free to ask questions, not just about me. I'll go, Hey, that's fine too, but feel free to just speak up if you want to feel more comfortable. I, I don't feel like yelling out, but raise me, raising a human smile.
+
+um, this is about you and I and I want to have it more conversational, but I got tons I can say. So I started off when I went through the five year plan of college and I knew exactly what I wanted. So I started off as a vocal performance and about a year and a half in I realized the musicians actually have to be kind of mature and disciplined practice.
+
+And so I shifted to. I had reasons and, and it would've been a fine career path, but after about a year as a premed major, I decided that I was running away from my first two love, and that was computer science. And I realized this actually, I'm sitting in choir practice at University of Michigan Flake where I went and the two girls behind me were talking about crypto and data, and I'm.
+
+I'm really ex, I want to turn around and, and I realize right then I'm going in to be a doctor for the money and not for the real passion. So I shifted. Never looked back. I've just enjoyed it so much. Um, right outta college, it was hard to get a job. Um, I leverage network friends, whatever. It turns out my best friend from first to fourth grade had married a girl who knew a guy.
+
+That said, you have to apply here. That and, and here's what to apply for. It was a little tiny company. In fact, it was kind of a crappy company and it, it went out of business, but it was a great stepping stone and it gave me the opportunity to prove my passion, to prove skill capability. And I learned a ton.
+
+And so it launched me into my next career within about a year, or I'm sorry, my next job been about. But it got me into instructing. So I got comfortable getting in front of people, which was hard, even for a vocal performance major. Uh, it was hard to figure out actually how to stop just saying. Um, so can you imagine not doing something?
+
+Do you know what? Not doing something does. It makes you focus on that thing. Mm-hmm. , you know what happens? You do that thing or if you gut it out, white knuckle it and you say, I'm not gonna say. Um, so you say some other filler word that is just as bad. So I went through about three of these filler words, um, uh, and I can't remember the other one before I realized.
+
+Take a breath. They're not gonna steal their for from you. Collect your thoughts and. . I got into network engineering and consulting, and I got to interface with customers and talk with people that have a different work life and experience than me. Find out what they needed and try to grow enough to give it to them, or if I knew it already do that.
+
+And I ended up with Amway Corporation. Anybody here at Amway Corporation? It's not a pyramid scheme. Uh, it's actually one of the, one of the best family oriented, uh, employers here in West Michigan. Great place to raise family on stone about eight years there. Um, doing network administration, other technology things, data, telecom, like the people who make sure your packets get from here to there.
+
+That means that was me. And then I ended up in cybersecurity because I had a passion for knowing and understanding things. Deep technical level, and what you find is when you, when you are allowed to have your creativity, passion, passionate creativity, or curiosity, when you allow that to flow into the work that you're doing and it's encouraged and you're willing to put in work and to grow and to learn or, and read, even if reading isn't easy.
+
+that turns out I read super slow. That passionate, creative curiosity had you stand out no matter where you end up, whatever your career is, if you're a veterinarian, if you are a gynecologist, or if you are a forestry mountaineer all of your career. Will benefit. If you can find that creative curiosity.
+
+Make it passionate. Allow yourself to do extra work. Put in some time after hours. Not that we want drones, not that we want to have bad life balance, but a little bit. Just that little bit and it makes you stand out and opens doorways for you to career. Anyway, I, I'm going all over. So I worked for Amway Corporation doing information security and I learned how to hack there.
+
+So by that I mean I learned how to take knowledge of a network computer environment and tools that I, that I continued to add to the tool belt from other people. I was able to compromise computer security to pivot and use that newly owned computer or network to take over other computers or networks and, Wow.
+
+Talk about an amazing, really cool thing hacking computers doing, making them do things that nobody ever intended and actually most people didn't want. Um, but I was doing it for the good guests, like I was getting paid to do this professionally and helping identify where weaknesses are so that, I mean, people who have less honorable intents can be restricted.
+
+So I went after. , this hacking and actually security incident handling. It's the thing that happens when somebody hacks into a network. Somebody shows up on site going, I know things and I know people, and let's solve this problem. Then I got into digital forensics, which was like, okay, somebody showed up on site, collected a whole bunch of stuff, and now I'm looking at it and telling you what it does, and both of these seem so amazing, the kind of things that could take everything you bring to the table.
+
+and make you grow every time. So I was really excited until I learned how to reverse engineer and go hunting for unknown bugs and write programs that exploit bugs that had never been exploited before, at least publicly. And again, it was that what in the world, I would've never thought that I could do this.
+
+But now I'm. And it's so amazing and creative. And so I was on the, uh, I was on the team that first publicly broke out of VMware. Has anybody heard of VMware? It's a virtualization software allows you to little run little virtual machines inside your computer. So let's say you have a Windows computer and you are run another little Windows computer and beat it up or have something, how to do something or run Linux.
+
+Anybody hear the. . Okay, good. It'll help you in data analytics if you know it, what exists. So you run other operating systems on your computer, stuff like that. Well, there was a problem cuz the Air Force was saying, well, we have classified computer systems that can't touch the internet, but if we create a virtual machine inside of our classified computer systems, we can go out to the internet that way.
+
+Right. And so the, the Air Force Research Labs came to my company and. We gotta prove them wrong. Please help us prove them wrong. And so we, we did a ton of research, reverse engineered, and then we were able to break out of the guest, which is the, the secondary operating system, second the virtual machine.
+
+And we were able to take over the main computer, the one that had access to all the, the top secret data.
+
+Uh, but please take away from that. I did not go straight here. I took quite a few twists and turns and never expected to end up where I'm at. So I'm very happy and I'm very glad. It's been an interesting set of chapters that I've done here.
+
+A little bit more of my history. So then I joined the dark side, that is government. Uh, and I, and I did, there are a lot of things that I would actually be arrested for. , but I can't, oddly enough tell you that I did vulnerability research and exploitation development for the msa. It's the one thing, it's the weird thing is like that I don't feel like I should be able to say, but I did.
+
+I did a lot of it. Clan destiny things. The stuff where you watch your favorite spy television show or your favorite climb show and you see technology things come into it that are really special and and cool. That's the kind of projects I got to work on.  and it was the most toxic environment ever. So the level of aptitude and and brilliance of the people I worked with was high, but the environment allowed for a lot of immaturity and a lot of hostility and a lot of high school people.
+
+This is so nice. And so I spent three years there. I needed some professional help afterwards, maybe. I, I did actually spend some time try to recover from it after I was out, before I joined, well before I joined Grim, but joining the dark side, I was following a mentor and hopefully you'll find some mentor in your lives.
+
+One at a time is generally, generally enough and good. Um, and I follow the mentor, the guy who provided the framework for me to learn how to do all the coolest, having stuff that I do like. I'm about three months in. He, he left. He said, I'm glad we finally got you here. I've been waiting for five years, but I got these, uh, you did waited five years for the driving there, but me and my two friends are exiting stage.
+
+Right? And, uh, we're gonna go redefine how intelligence is done. Because the reason that I was paid to hack for the government wasn't because hacking Islam are cool. It's. Doing hacks on computer systems, taking over computer systems of interesting targets, provides intelligence, information, data, things that can help the nsa, the cia, the fbi, whatever, can help intelligence agencies decide that nine 11 is gonna, or decide that the next thing is gonna come decide when we're.
+
+Predictions about Russia entering Ukraine. There was a whole lot of intelligence gathering and, uh, processing that went into figuring out, no, it's gonna happen. Please understand. He's saying this, uh, Ukraine is saying this, but the underlings over here, we, we've tracked on the wire, but they're sending emails on tact.
+
+I'm not speaking from experience on that one. I'm just saying I know that that is the type of thing that. Don't know anything about the Russia, Ukraine details, but so he leaves to redefine how intelligence is done. I joined Grim a couple years later and created the critical infrastructure team. So I got my, I got my break into hardware hacking back in 2008 when Consumers Energy and a, and a number of other power companies came and said, so we're working on the rollout smart meters.
+
+You guys offered us smart meters, right? The meters on the side of your. Measure your energy usage and they have a brain and they have a computer inside and they do mesh networking and, and somehow communicate back instead of the old days, which I'm not sure how many of you actually were aware, but they used have meter readers that would walk by or drive up.
+
+They'd look at your, your, your meter and they wipe down the metrics and then fill you for it. So the smart meters were a really cool idea. The problem is they were sticking in disconnect. So electronic, electronic disconnect switches that they could trigger from home office and say, we've lost them as a customer, shut off power.
+
+And they were terrified because if, well, the electric grid has some points at which it becomes unstable if you turn on too many televisions, for example, in a small. , you can draw enough juice or too many microwaves or whatever. You can draw enough juice and the change in how much energy is used can cause a brown enough if you shut them all off at the same time, you can actually have the available energy spike in a way that can destroy play.
+
+So we're going, if we have a massive compromise of power. And somebody decides to turn 'em all on and then turn 'em all off at the same time. We could be looking at something that blows up the stuff that keeps our, our electric grid state, which is a applicable thing. Since I lost power four days ago, I haven't been able to get it back up, but that's neither here.
+
+Another, so anyway, I created the Pushable infrastructure team at Grim. We hack hardware, we hack firmware, we hack software, we basical. We take your, uh, we take your cell phone, we break into it, but that's actually been done for a lot of years. We take power meters. We take your, your cars. We've gotten, we're probably best known for our car tagging.
+
+Um, so autonomous vehicles. Anybody want one? Hey, that's a good answer. Did I lose you? Do you like sugar?
+
+I have a question. Yeah. Um, from the previous one. I have a picture in the bottom. The bottom left. Left. That's me. Really? Yeah. . That's my preferred book, but my wife hates it. She's like, you look like Mr. Clean. And it looked scary. That was what I was going for, but Okay.
+
+Oh, and on that note, I did want to share this with you a little bit. Can't barely hear it. You guys seem fatal, furious.
+
+I just love the idea of using cars in a, in a really strange way. I will talk about how likely that is. Uh,
+
+I will say that we're getting closer to it every day. We, we have the likelihood of that with each new generation of cars, but that's why we have people like myself working. To make sure that that's okay.
+
+All right. Now without more questions. This, yes, this is a way to vote questions. I may make your ears read just a little bit. We're gonna run through some technology stuff we didn't ask for. You didn't sign up for it and suck it you. So computer, internally, you've got your processor and.  and your operating system that's running in there.
+
+You've probably got Windows or Mac, and then you've got your input devices, your, your mouse, your keyboard, maybe other things, your usb, you got your output. Maybe it's a screen, maybe it's other things. Uh, it doesn't, this doesn't have a network connection, but that's pretty important for a computer. Your cell phone.
+
+Not any different than this. It just has different types of networks, different types of keyboard, different types of screen, and then you've got your hard drive storage and basically hard drive versus ram. It's a discussion I don't want to get into, but I will say your computer system, I put an implant on your computer system.
+
+I call 'em implants. Uh, you probably call it malware. An implant is a way that I have a program running on a compromised.  and it periodically in some way connects back to some home base and says, what do I do now? And now your computer is my computer. I can tell her what to do. I can gather all the information off hard drive if, uh, or off your cell phone if you keep your passwords.
+
+And I, yes, those are something that we can sometimes get.
+
+you can't necessarily, my program may or may not be able to access all the other programs and everything else on the device depends on what level of access I've got, but it is a possibility that you probably can't know what you can know. Is that, what's your name? Katherine Avin? Yes. Okay. So a.  and Paris.
+
+If I have an implant on your computer, I have to exploit a different weakness to take over Paris's computer. Because airwaves and copper are intrinsically impervious to having our attack them, you actually have to go over to the other computer, exploit a weakness over there to take it over. I'm not saying that I couldn't own all the machines in this room, but it would be more work.
+
+And that's a, that's a characteristic of data security and computer security that I want to be, that I want you to take out of you and take, take over your computer. That doesn't get me her computer or anybody else's, unless you're all victim to the same vulnerability. If I found a vulnerability that doesn't have a.
+
+and you're all running the same version of Windows or the same software that has the vulnerability, then it's a matter of taking over your machine and then taking over everybody else's machine because it's, it's like I found a key that unlocks the door every door in the neighbor, but if I got you to click on something and download my malware and have it run and hide so that you don't know that it's running, that doesn't get me.
+
+Okay. And when talking about data security, computer security, the goal is never, I mean, we would love a hundred percent security where we can say that nobody can take over a computer or take over an account or whatever, but it's just not feasible cuz the best way to do that is to disconnect it and put it in a cement bunker underground that has no access.
+
+Um, . So the best that we can do is make it costly for attackers to gain what they want. Okay, so we put up things in networks that try to protect against bad guys, even compromising known vulnerabilities by just shutting off the ability to talk to the, to a given computer that might be vulnerable. So we're gonna talk a little bit about the internet.
+
+and the Internet's main language is called anybody know ? Anybody heard of tcp? I p Probably have heard about an IP address. Mm-hmm. ? Mm-hmm. . Okay. Well, to be on the internet, you get an IP address aside from three key ranges of addresses that are allowed to be used anywhere except on the internet. Like on campus, you'll probably have.
+
+They call 'em RFC 1918, but it's really just private addresses that can't go on the internet. They have to get translated to get on the internet. Aside from those three ranges, every IP address is tied basically to a location. Now, maybe they can't get to you to, to your home as your IP address, but oftentimes, how many times have you guys gone somewhere on the internet and had it pop up saying, oh, you're in Allendale, or, , but you really are in Allendale.
+
+Mm-hmm. . I get that a lot. I live in New Wago. Oh, you're in Allendale. Find girls in Allendale. , okay. Yeah, sure. Thanks. Um, but that type of thing, right? It's because my IP address gave a geolocation that was roughly where I live. Roughly like an hour away. But they don't know that. So IP is that way. It's broken into segments that have to.
+
+Bound to physical location for the most part. Uh, there are two major dialects, I'll call 'em dialects. It's not what they're called, uh, within tcp i p and that's tcp. I know it's confusing, it's different, but, and UDP and TCP is best known for being connection oriented. And how you doing? Good. I'm great. And we're gonna have a conversation.
+
+Okay. This is connection oriented.
+
+and then moving on, that would be Connectionless. Like, I don't wait, I don't care. The fact that Paul heard or not, I, I really couldn't tell you. That's connectionless. So UDP is good for streaming media because you don't have to send data over the internet and get an acknowledgement back that it made it there.
+
+Right. I just, and if you're listening, Brad, if not, you know, that's really not my. . So it's kind of like a text or a phone call. You guys text your friends, right? You think they got it? No, not until they respond. Right? So TCP says, I'll talk about that in a second. So in communication on the internet, there's always the concept of a source and destination address and port, and we'll talk about the port in a second, but the address, this computer.
+
+Sent communication to this other computer. The port is like, I'm calling you, but I really want to talk to your mom. So hey, is your mom there? Can you put her on? Yeah. That's kind of like the idea of a port. It's multiplexing of one connection, uh, sorry. One communication mechanism between computers to find different things.
+
+Like for example, if you wanted to serve a webpage off of your. And also provide email. So you can do that all from the same computer. You would talk to the same address, but on a different port. Does that make sense?
+
+Got candy on it for you. Does that make sense? Just say no, and I still give you candy.
+
+The tcp, the connection oriented protocol, and I, I will try to get off of this deep technical jargon pretty quick, but TCP does its connection by saying very specifically, yeah. How you doing? And the other side go up. I'm doing fine. How are you and the originator going? Yo, we're good because in that we set up tracking elements that allow us to make.
+
+Every data piece of communication that I send or it gets sent back to me is acknowledged with some numbers to make sure that we're not just saying, oh, we're good when we actually missed five messages. You ever had that happen, like, oh my gosh, where do these messages come from? I wish I would've known that before saying that.
+
+Hate mail
+
+the benefit, the side benefit of this. Wow. Copy. The be side benefit from a security perspective is in order to complete that TCP three-way handshake that I just described to you, I have to be honest about my source address. And so do that so we can establish through a TCP connection, the connection oriented thing, and all your webpage surfing, all of like most of what you do today uses the, the connection oriented tcp and we can confirm.
+
+I am this address and you are that address, and that helps us when it comes to securing networks because this thing up here, and I don't have a pointer except this, this thing called a firewall. That firewall has awareness of what's on both sides of it and it filters connections going, yeah, you don't get to talk to them on 4 25.
+
+Who are you kidding? They don't even listen on 4 25. What do you.  because one of the, one of the hacker's greatest tools is exploiting a computer and then having them listen on a port that they didn't listen on before and making that a backdoor point. So we're trying to protect against that. And then UDP connections.
+
+No such luck. The idea is I just skew, if you're really interested, you'll listen or you'll ask for a repeat and then, you know, maybe I'll listen.
+
+and that's how access control works. All right. Did it hurt you? Any blood coming out of the ears yet? Okay. It actually gets to the university's spiral like this big. I was really surprised the actual device was very small. It's doing all that kind of filtering stuff doesn't take much. Yeah. Doesn't make small place random throw.
+
+Oh and another go get hit . I keep right. I heard you say you likes anybody else. All right. I won't get you in the head, so take away from this. Oh, okay. Okay. I almost jump to it again, but this is actually, so let's talk a little bit, just briefly, you won't be a hacker by the end of this, but I want you to understand some of the context around computer.
+
+So there are a bunch of different ways that you can hack a computer system. So you take what you can get, how do you interact with a computer system? Because I've gotta provide, in order to hack a computer, I have to provide data that the other computer chokes on in some way, in a way that allows me to take over and have, have access.
+
+So for a web server there, Web server vulnerabilities, things like, uh, they've stuck a hidden field in the webpage. I don't know if you've ever heard of that, but HTML has the ability to hide data form fields inside of it. And sometimes they can tell a little bit about what's going on inside the computer system there.
+
+And maybe if the hidden field shows file that's on the web server.  aren't supposed to know. Maybe you can read out the passwords file or other things like that. Um, the most common, the thing that's probably paid the most dividends is called a buffer overflow. And so a buffer overflow is, is basically where in the computer programming language that they made your, your code, they, they allocated a certain size buffer, as I call it.
+
+Just, you know, how many letters can go into.  and, and it's, it's not like chat g p t where you just keep typing and it just keeps making more for operating system level. Uh, programming kind of carve out a certain chunk and that's it. So if you can trick the computer to read or what to write past the end of that buffer, there's no telling what you can do.
+
+In fact, really there isn't until you get into it and play with it.  many times. The place where that thing for your information is stored is also used for little hooks in the program code to tell the program where to go and what to do next. So if you're able to overwrite something like that, that tells it what to do, suddenly you may be able to tell her what to do.
+
+So instead of inserting data, you've now taken over control. Does that make sense?
+
+Uh, and I, I'd be remiss if I didn't mention the easiest way in the most computer networks is user on some passwords, because some people, no matter how much you try to get them to change it, we'll still put your dog's name and then a one after it, and then change it to two after they have to change their password.
+
+Um, who here? Oh, this is Goodwin. It's almost embarrass. Go ask you anyway. Who here has ever received an email saying,
+
+I, I, I can't even look control in the eye. I'll look at you. I broke into your computer while you were searching a porn site the other day, and I have all your passwords and like they've stuck one of your passwords. The subject one. Anybody received an email like that going, oh, you have nice taste. I've got like 300 of them because,  what happened, but like they're, they're saying, Hey, pay me in Bitcoin.
+
+You guys familiar with Bitcoin? Mm-hmm.  the idea of cryptocurrency. Pay me in Bitcoin to this wallet, or I'm gonna share your video of you getting it on with your friends. You know, they're always generic cause they don't really know you. They haven't really hacked you. What they've done is they've found, they found a.
+
+From a previous, in my case, I think I tracked it back cuz of the password that is used over and over and over and over again to a Facebook hack of early 2000 tens. And they broke in to Facebook, they dumped all the user names and passwords and then they found their way on the, on the dark line and somebody got created and going, well, the number of people who watch porn, it's greater than the number of.
+
+You don't, it's a number scheme at that point. And then if I can trick somebody, I can money. I can't really undo a Bitcoin transaction. So that is a, that is a, a form of exploitation. It's not my favorite, but it is creative. I gotta give them credit. They are using what they have to get to what they want and it becomes a numbers game.
+
+Most things in data security, computer security is a numbers game. Just hope that you're on the. Once a computer is compromised, here's another thing that I want you to take away from this. I gotta up the the sugar monitor here. I hope you like it. I'm sorry. Once a computer has been compromised, their data is just sitting there.
+
+So if you compromise somebody's laptop, all their love letters, all their homework assignments, whatever, just. . Even if you have an encrypted hard drive, turns out an encrypted thing isn't very much use while it's encrypted. So you encrypt the hard drive. What that does is that means that I can't steal his laptop, make off with it, and then get up the data easily.
+
+I could still do it cause there's tricks, but most people can. , but once you start it up the laptop and you've typed in the password, just stay as resident. It decrypts the data as you need it. So if I'm running code on your computer as a compromised computer, I'm not able to access all of that stuff that's encrypted unless it's yours.
+
+You've closed it and you're using a tool that actually wipes out the memories so that I can't,
+
+do I still have your attention? I'm not gonna.
+
+All right. I swear to you this is not as dull as it sounds or looks, and it's not a compu, it is not a computer or math class, but I'm gonna get behind you just to make you feel uncomfortable. I'm gonna talk a little bit about graph theory, data modeling, nodes, engines, properties, and modeling relat.
+
+because graphs were never intended to make you upset or worry about a grade or an assignment. They were intended to model systems and the way we're gonna talk about it, modeling information, modeling the world, basically. So I've given two examples here. Here's just a very simple. Here's A A node, A with a node B, a node C, and a node D, and here's a directional edge pointing A to B.
+
+Here's a non-directional edge between B and C and directional edges from A and C here to D, and they've got some property. I'm gonna say wait, just because in math you say wait if it's just a number, um, and it kind of almost matches the size difference.  this. This represents some information, right? This one over here actually represents information in kind of an aesthetically pleasing way up here.
+
+I don't know how well you're gonna read it, but this is a node called Seattle, and here's a node called Minneapolis, and there's the number in between on the edge is 26 61. I'm gonna guess that maybe means. Chicago and Minneapolis are connected by an edge that says 6 61 Washington, DC to Miami, an Edge 1709, and so on and so forth.
+
+I don't know what the numbers mean. I don't care. What I want you to know is the nodes have a meaning. They, they typically represent an entity and edges represent relationship. Okay? So we could probably graph. I guarantee you, uh, LinkedIn and Facebook and TikTok already have graphed all the GVS youth students and who knows who.
+
+You know why? Because that's what we've been giving them information for. That's why we say, oh, I know that person. Yes, they know me back. And so does TikTok. They're like, ah, they know each other. Let's make money. Half that somehow. , because I want to throw this one out there. You've heard this one before, right?
+
+If the product is free, you're, you're the product. Yes. Thank you. There's a corollary that I'll talk about in a little bit, but if the product is free, you're the product, please take that home and stick with it, cuz uh, yeah. Anyway, this won't make any sense to you, but this is also a directional graph using nodes of code.
+
+This is, I do a lot of reverse engineering of binary programs, and so I look at this type of thing all day. I get excited looking at this, to be honest. What language is it? This is, this is assembly language. Oh yeah. I thought because, so you wait, you code an assembly every day. I disassemble and find vulnerabilities and find that happens.
+
+Okay. No assembly is hard, so I'm like surprised . . I thought that too. Actually, there's so much I wanted we don't have on hand. I like minutes. If I would have a hat I would put it off. But in college I remember thinking, why do they force us to take a subway language? We've got Java and other things. We like running code everywhere we were.
+
+Just write it once. It works at everything. This assembly code, I can't just focus on the hardware, but I gotta focus on the operating system. . Turns out, I, I don't think that I've had a college class that more played into my career path in the assembly. And I'm, I, I'm on a couple advisory boards for colleges and I'm saying, please put assembly back in the, uh, computer science curriculum as a mandatory thing.
+
+it's so important. I, I did have to take it. If it makes you happy, it does make me very happy. Thank you. What's your name? Priscilla Pri. Thank you, SIL, you've, you've given me joy . Well, you haven't much kidding, . So data modeling and graphs in real life. So imagine a graph and I couldn't, I couldn't come up with a good picture, so I just colorized everything.
+
+I hope that's good for you. I couldn't, uh, imagine a graph, we'll call it a hypo graph, but it's really just a really big graph with nodes.  that everything has one note, Paris has a note. It does not have Paris inside the note. By the way, Paris may have four or five different names, so we'll create another note for the name Paris and connect it to the entity that is, or the person formally known as Paris.
+
+And I'm thinking on her because I'm forgetting names. I'm so sorry, but I'll keep asking. Um, now, so create a, create a graph where we model people, we model interactions. You have a node that is just you, there are properties of that note that do not change, right? But your name is not one. , so you have another note for your name.
+
+You have another note for each of your email addresses and an edge that connects those to you. You have emails that you've sent those representatives. There's data inside those emails that are properties of that node for the email and maybe file attachments that represent their own node because of.
+
+okay. There are IP addresses that have been known to be associated with you, maybe at your favorite coffee shop, maybe at Grand Valley State, maybe your cell phone and all the different IP addresses that they pick up from Towers. And so those end up being represented in the graph as well with time boxes, because you don't own that IP address forever, you just have it per time.
+
+Right? How about dns? Anybody heard of dms? Okay, so the DMS is dynamic naming service, basically yahoo.com, google.com. These are just numbers. These are just names that translate to IP addresses, which are numbers. Computers like numbers. DNS is the way that we translate those things. So if we have a DNS entry that says this, , your cell phone got assigned a name or you made your cell phone evil for, oh wait, no, that's my cell phone, but that name was put into certain dynamic naming systems and it associated with an IP address for this amount of time.
+
+We started to get, get my drift. There are other nodes in the, in the graph about entities like Graham Valley or Grim, where I work. , uh, yeah, any number of others. Synapse and Vertex is the one I was gonna come up with because it's my data model tool of choice. So imagine a hypergraph, I'm just gonna still half that content.
+
+Sorry. Um, so imagine this huge graph that models the world to the best of our ability. Now imagine a way to feed that graph all the information from the internet.
+
+Wait, no. Some of that's encrypted. Yeah, some of that's encrypted. And yet accessing a webpage is still a notable thing. Even if I can't see the content. The fact that you surfed to ups jobs.com probably tells me something, uh, maybe I don't know what the actual name of the site is because it's encrypted, remember, but the DNS.
+
+The lookup that came from you milliseconds before went to ups jobs.com, so maybe we can type things there. Intelligence is not an exact science at every step. Turns out riders our legal system. If you go to court, what will they do? You'll have two. Present, different sides, different evidence and different narrative describing what's going on, what's going on, blah, blah, blah.
+
+And then people have to sit there and ponder the evidence presented for them. Recognize the motivations and pressures by each side that may slant their narrative in a particular.  and make up your mind what really happened. And it turns out intelligence is the exact same thing, except if you get it wrong, people die.
+
+Or you know, if you get it right, we might save the day. It's an exciting career. I recommend considering it. It's not for everyone, but I'll tell you that whole curiosity thing, that whole making connections from knowledge. And leveraging a deep understanding of how things work to affect the world. It's quite a job.
+
+So emails, those are easy from to subject, uh, time of email, web traffic. What, what system went to, what if it's unencrypted, which most of it's not anymore, but if it's unencrypted, what data is? Even if, even if it's encrypted and you pop up a thing saying, Hey, something's hinky and you click okay. Anyway, that could give an attacker the ability to see through your, your data, even though it's encrypted, you just encrypted it to the attacker and they re-encrypt it and sent it on.
+
+Uh, your app traffic, uh, you know, swiping right and left is, turns out people are interested in that. Malware, traffic, a lot of stuff. Some of the more interesting things that I've heard. Uh, in the intelligence community have come from what malware traffic was doing and what that said about the malware and the actors.
+
+Because malware is sent out by an actor. You know, whether it's Fuzzy Bear or Fuzzy Bear or you know, whatever. Bear Bear's typically a Russian heavily. Oftentimes that means it's associated with a particular advanced persistent threat or a bt So there could. The Chinese military, it could be the Russian military or wherever, whoever.
+
+It could be Billy Bob's, uh, anti taxation group. I mean, there's all sorts of people who have malicious intent. Um,
+
+but the amount of understanding the details that you can get out of network traffic, huge. I won't go any further into that. Too much more. So come up with a couple different examples of using
+
+I'm sure, of using data to hypothesize and then go prove through correlation what you think is actually going on. So who here has heard of an IME I number for? Okay, a few of you, every cell phone has an imme I number part stamped into it. And when your cell phone connects to cell phone towers, it transmits that IME and I number the cell phone tower.
+
+The, the owner of it sends back another address and IMS I and NZ if if you care. But IME I numbers are I.
+
+And it turns out whether, if you can ex, if you can excuse my French for a minute, there's a shipload of information available online if you know where to go and who to pay, um, including tracking information about your cell phone. How do they get such information you. Does, does at and t sell my data to nefarious people?
+
+Maybe, maybe not. Who here has installed a free app on their phone? Any one of you could have given up rights to all your information. Most specifically, you'd be surprised what pre, what an app is able to access on your phone to identify it without your.  because it doesn't seem like a big deal. But accessing GPS data, for example, you do have to give permission to that.
+
+But other things, signal strength, uh, other cell tower type things. Your free apps can give data about your movements. They can give data about your usability, how you know, how heavily used is your cell phone right now, what's your battery log? All the stuff that seems.  mundane can be used against you, or at least used to paint a picture.
+
+Again, I don't want to, I don't want to make it sound like a chair little. It can be used to paint a picture and tell a story that is far more accurate than you might think. This one right here, uh, using a, using a data feed out of IMEI tracking.
+
+Allowed for a query to be made saying, okay, a conference is a time and space bounded thing. You go to a conference, it's in a location. Generally a GPS marked out building, if you think about it that way, and a timeframe starting now ending here. So the query was put this Russian, African, uh, some blah, blah, blah.
+
+Tell me all the IME I numbers that were in that building at the time during the conference. Fast forward three days after the conference. Now show me where all those IME I numbers are. And that's some of the data you're seeing right here with represented by the green dot. Try not to fall over, I guess.
+
+So the green dots up here, you can't hardly. , but there's a few here, a couple in Cameroon, down here in South Africa, a whole bunch over here in the, in Saudi Arabia area and heavily and the Georgia area and, and whatnot. And down here we've panned a little bit and there's a few that hit Moscow. So how did, how did you prevent people from counterfeiting IVs and why, why could you counterfeit, like create like some pesting company, make counterfeit phones?
+
+incorrect. I in the I or duplicate on somebody else's? That's a great question. Um, I into it. I'm not sure that there's been a lot of interest. I would think people could do that. Good. I mean, I mean, your phone is manufactured and it has the i in the, I stamped in, I'm not sure. The interplay between the SIM card and the, and the, IM e i.
+
+Good. That's how they do the, the cloning, like the movies and stuff. Phone. Somebody's phone. You just spooked it. It's the same phone. Yeah. Yeah. Send the same thing to both phones. Yeah. And I've done that actually. I, I've got a, I got a phone a while back, but, uh, I needed to know more, so I swapped it out, uh, duplicated the sim.
+
+Um, so this is just a very, very rudimentary use of data, but an interesting one.
+
+This is far more interesting than me. Uh, AIS information, autonomous identifi, uh, automatic identification systems. They, they're one on boats. Basically, it's a transponder, uh, heavily used on boats, and this one in particular turns out on a boat. The Ais s data that's transmitted that maybe somebody didn't realize includes birth depth.
+
+So how deep in the water your boat. At any given point in time, periodically just beaconing off, eh, relatively mundane data, how could that ever be used? Well, in this case, it's a sanctioned Russian tanker where we can tell from the AIS data that was collected and ais collectors are all over. I was just having a conversation with a customs and border patrol guy the other day and it's talking about, oh, that's easy.
+
+We love that. . Um, so what we see here is red displacement implies the full tanker, meaning it's lower in the water, yellow is a higher in the water breathing. And so we see yellow coming in. They shut off their transponder right here for some reason, and they end up at a place there in Russia. And as they.
+
+They're a lot deeper in the water. They go back up, shut off their transponder, and then they get picked up back out here where they come around and shut off their transponder again.
+
+So this is a different modeling of the same data. Um, well this is where they shut off. This is near where they shut off in Russia turns. That's an oil refinery, so clearly they're picking up oil and where they ended up, when they cut off data here, when they lo when they turned off their transponder and then they turned it back on, it's approximately the right amount of time to reach Cyprus, unload, and then head back out.
+
+Cyprus is not supposed to be getting oil. . That's what sanctions mean. So this is last year's data.
+
+Oh, here's another interesting one. You may or may not care. Oh, go ahead. Wait. Why wouldn't they just keep it up the whole time? Because it's worse if you're caught without it. I can, and it's helpful to keep other ships aware of your location so you don't get run into, it's a lot of water, so it's hard to keep track of.
+
+That seems easy then just to see what they're. So, but they didn't know, I mean, they didn't know that that birth death was transmitted in the as they just know that, you know, we just don't want.
